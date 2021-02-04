@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9E8585E9-586B-4086-8B4B-D93FA5DADC2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreenTeamApplication/CSV/userinfo.csv">
+    <Files>
+      <File FileName="GreenTeamApplication/Program.cs" Line="35" Column="62" />
+      <File FileName="GreenTeamApplication/CSV/userinfo.csv" Line="3" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GreenTeamApplication" expanded="True">
+            <Node name="GreenTeamApplication" expanded="True">
+              <Node name="CSV" expanded="True">
+                <Node name="userinfo.csv" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GreenTeamApplication PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

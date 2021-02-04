@@ -1,0 +1,11 @@
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/bin/Release/netcoreapp3.1/GreenTeamApplication.deps.json
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/bin/Release/netcoreapp3.1/GreenTeamApplication.runtimeconfig.json
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/bin/Release/netcoreapp3.1/GreenTeamApplication.runtimeconfig.dev.json
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/bin/Release/netcoreapp3.1/GreenTeamApplication.dll
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/bin/Release/netcoreapp3.1/GreenTeamApplication.pdb
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.AssemblyInfoInputs.cache
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.AssemblyInfo.cs
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.csproj.CoreCompileInputs.cache
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.dll
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.pdb
+/Users/hpdhungel/Projects/GreenTeamApplication/GreenTeamApplication/obj/Release/netcoreapp3.1/GreenTeamApplication.genruntimeconfig.cache
